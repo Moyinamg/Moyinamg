@@ -165,8 +165,6 @@ I'm eager to:
 [![GitHub](https://img.shields.io/badge/GitHub-DA70D6?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1b69)](https://github.com/Moyinamg)
 [![Email](https://img.shields.io/badge/Email_Me-DA70D6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d1b69)](mailto:moyin817@gmail.com)
 
-**💜 [Add your LinkedIn, Portfolio, or other social links here] 💜**
-
 </div>
 
 ---
