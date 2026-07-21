@@ -121,16 +121,6 @@ I've built multiple websites, web applications, and programming projects that sh
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moyinamg&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=9d4edd&icon_color=9d4edd&card_width=500)](https://github.com/Moyinamg)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moyinamg&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=9d4edd&card_width=500)](https://github.com/Moyinamg)
-
-</div>
-
 ---
 
 ## 🌱 Current Focus & Learning Path
