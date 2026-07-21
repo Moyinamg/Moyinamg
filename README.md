@@ -16,7 +16,7 @@
 
 ## 🌸 About Me
 
-I'm an aspiring software engineer and web developer who enjoys turning ideas into practical, user-friendly digital experiences. ✨ I'm especially interested in taking a problem, thinking through how technology could make it easier to solve, and then building something that people can actually use.
+Hello Friends! Moyinamg enjoys turning ideas into practical, user-friendly digital experiences. ✨ I'm especially interested in taking a problem, thinking through how technology could make it easier to solve, and then building something that people can actually use.
 
 I enjoy both the **technical and creative sides** of development. Whether I'm writing Python logic, building with JavaScript, HTML, and CSS, working with APIs and data, or designing the look and experience of a website, I like understanding how all the different pieces come together to create a complete product. 💎
 
@@ -120,20 +120,6 @@ I've built multiple websites, web applications, and programming projects that sh
 - 🌟 Problem-solving across various domains
 
 **Explore all projects:** [✨ View My GitHub Repositories ✨](https://github.com/Moyinamg)
-
----
-
-## 📊💜 GitHub Statistics 💜📊
-
-<div align="center">
-
-### ✨ My Coding Journey ✨
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moyinamg&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=DA70D6&icon_color=DA70D6&card_width=500)](https://github.com/Moyinamg)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moyinamg&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=DA70D6&card_width=500)](https://github.com/Moyinamg)
-
-</div>
 
 ---
 
